@@ -197,9 +197,110 @@
 
     // echo round(3.45);
 
-    // echo rand(5, 10);
-  
+     //echo rand(5, 10);
 
+    // constants
+    // $x = 10;
+    // define("_GREETING", "Hello World!");
+
+    // //echo $x;
+    // //var_dump(_GREETING);
+
+    // const _GREETING2 = "Hello People!"
+
+    // echo _GREETING2;
+
+    // function test (){
+    //     echo _GREETING2;
+    // }
+    
+    // test();
+
+    // echo $x;
+    // unset(_GREEETING);
+    // //echo _GREETING;
+
+    // arithmetics
+
+    // // + addittion
+    // echo 10 + 100 + 20, "<br>";
+    // // - subtraction
+    // echo 10 - 100 - 20, "<br>";
+    // // add and subtract 
+    // echo 10 - 20 + 100 - 10, "<br>";
+    // // * multiplication
+    // echo 10 * 10 * 10, "<br>";
+    // // \ division
+    // echo 10 / 5 / 2, "<br>";
+    // // multi and div
+    // echo 10 / 5 * 2, "<br>";
+    // // add, sub, div and multi
+    // echo 50 + 10 / 2, "<br>"; // di, multi before add,sub
+    // // % modulus
+    // echo 7 % 3 , "<br>";
+    // // ** exponential
+    // echo 10 ** 10, "<br>";
+
+    // assignment 
+    // = equals
+    // $x = 10;
+
+    // +=
+    // $x = $x + 10;
+    // $x += 10;
+    // echo $x;
+
+    // -=
+    // $x = $x - 10;
+    // $x -= 10;
+    // echo $x;
+    
+    // /=
+    // $x = $x / 10;
+    // $x /= 10;
+    // echo $x;
+
+    // *=
+    // $x = $x * 10;
+    // $x *= 10;
+    // echo $x;
+
+    //comparison
+    // // == equals to = similar value 
+    // var_dump(10 == "10");
+    // // === identical = similar value and data type
+    // var_dump(10 == "10");
+    // // != <> not equals to = not similar value
+    // var_dump(10 != "10");
+    // var_dump(10 <> "10");
+    // // !== not identical = not similar value and data type
+    // var_dump(10 !== "10");
+    // // < less than = check if the first value is less than to the second value 
+    // var_dump(10 < 11);
+    // // > greater than = check if the first value is greater than to the second value 
+    // var_dump(10 > 11);
+    // // <= less than or equal to = check if the first value is less than to the second value or equal
+    // var_dump(10 <= 11);
+    // // >= greater than or equal to = check if the first value is greater than to the second value or equal
+    // var_dump(10 >= 11);
+    // // <=> spaceship
+    // var_dump(1 <=> 2);
+    // var_dump(2 <=> 2);
+    // var_dump(3 <=> 2);
+
+    // incre/decre
+    
+    //pre-incre
+    // $x = 10;
+    // echo ++ $x, "<br>";
+    // echo -- $x, "<br>";
+    // //post-incre
+    //  $y = 10;
+    // echo $y++, "<br>";
+    // echo $y--, "<br>";
+    // echo $y, "<br>";
+    
+   
 ?>
 </body>
 </html>
